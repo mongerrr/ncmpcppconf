@@ -1,4 +1,4 @@
 ncmpcppconf
 ===========
 
-My confs for ncmpcpp
+My confs for for various things
