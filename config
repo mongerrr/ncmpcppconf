@@ -5,7 +5,7 @@ mpd_crossfade_time = "1"
 song_list_format = "{$5%a $9}{$2%t$9}|{$7%f$9}$7$R{%b }{$3%4l$9}$9"
 song_status_format = "$1{{$5%a$9{ $7%b$9{ $2%t$9}} }{($4%y$9)}}|{$7%f$9}$9"
 song_library_format = "{$3%n $9}{$2%t$9}|{$7%f$9}"
-tag_editor_album_format = "{%y }$7%b$9"
+#tag_editor_album_format = "{%y }$7%b$9"
 
 song_window_title_format = "{%a – }{%t}{ (%b)}|{%f} {[%l]}"
 
@@ -13,6 +13,7 @@ song_window_title_format = "{%a – }{%t}{ (%b)}|{%f} {[%l]}"
 song_columns_list_format = "(30)[yellow]{a} (40)[red]{t|f} (30)[cyan]{br} (4f)[green]{lr}"
 
 ##### various settings #####
+media_library_sort_by_mtime = yes
 progressbar_look = "━⊙"
 #progressbar_look = "-⊙ "
 
